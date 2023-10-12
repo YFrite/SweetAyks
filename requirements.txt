@@ -1,0 +1,3 @@
+babel
+aiogram[i18n]
+pydantic-settings
